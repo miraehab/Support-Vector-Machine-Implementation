@@ -8,7 +8,7 @@ Students should be able to code a working version of the support vector machine 
 
 In each of the previous three cases:</br>
 * Find optimal alphas.
-* Calculate W & Calculate b .
+* Calculate W & b .
 * Formulate the classifier Function.
 * Draw the decision boundary.
 * Use an appropriate dataset for each case.
