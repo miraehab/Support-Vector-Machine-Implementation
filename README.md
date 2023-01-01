@@ -4,7 +4,7 @@
 Students should be able to code a working version of the support vector machine that performs the following tasks:
 1. Train and classify for linearly separable case.
 2. Train and classify for the non-separable case. 
-3. (Bonus) Train and classify for non-linearly separable case. [Using Kernels]
+3. Train and classify for non-linearly separable case. [Using Kernels]
 
 In each of the previous three cases:</br>
 * Find optimal alphas.
