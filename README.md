@@ -1,7 +1,7 @@
 # Support-Vector-Machine-Implementation
 [Theoretical Foundations of ML]
 ## Support Vector Machine Project:</br>
-Students should be able to code a working version of the support vector machine that performs the following tasks:
+Implementing the support vector machine algorithm that performs the following tasks:
 1. Train and classify for linearly separable case.
 2. Train and classify for the non-separable case. 
 3. Train and classify for non-linearly separable case. [Using Kernels]
